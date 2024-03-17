@@ -341,7 +341,7 @@ h2 {
 @media (max-width: 400px) {
   .page-main__banner::before {
     content: '';
-    background-image: url(/source/img/Rectangle\ 18.jpg);
+    background-image: url(source/img/Rectangle\ 18.jpg);
     /* path to your first background image */
     opacity: 0.85;
     /* 50% transparency */
@@ -356,7 +356,7 @@ h2 {
   }
   .page-main__banner::after {
     content: '';
-    background-image: url(/source/img/index-background-desktop\ 2.jpg);
+    background-image: url(source/img/index-background-desktop\ 2.jpg);
     /* path to your first background image */
     top: 0;
     left: 0;
@@ -462,7 +462,7 @@ h2 {
   }
   .desktop__header--banner::before {
     content: '';
-    background: url(/source/img/Green\ Rectangle\ Desktop.jpg) no-repeat;
+    background: url(source/img/Green\ Rectangle\ Desktop.jpg) no-repeat;
     /* path to your first background image */
     height: 694px;
     opacity: 0.85;
@@ -476,7 +476,7 @@ h2 {
   }
   .desktop__header--banner::after {
     content: '';
-    background: url(/source/img/index-background-desktop\ 1.jpg) no-repeat;
+    background: url(source/img/index-background-desktop\ 1.jpg) no-repeat;
     /* path to your first background image */
     height: 694px;
     top: 0;
@@ -543,11 +543,11 @@ h2 {
     margin-bottom: 38px;
   }
   .programmes__item:first-child {
-    background: #f2f2f2 url('/source/img/cat_back.png') no-repeat;
+    background: #f2f2f2 url('source/img/cat_back.png') no-repeat;
     background-position: 22px 21px;
   }
   .programmes__item:last-child {
-    background: #f2f2f2 url('/source/img/cat_back\ \(1\).png') no-repeat;
+    background: #f2f2f2 url('source/img/cat_back\ \(1\).png') no-repeat;
     background-position: 13px 24px;
   }
   .programmes__item:last-child h3 {
@@ -618,12 +618,12 @@ h2 {
     margin-bottom: 48px;
   }
   .programmes__item:first-child {
-    background: #f2f2f2 url('/source/img/cat_back_tablet.svg') no-repeat;
+    background: #f2f2f2 url('source/img/cat_back_tablet.svg') no-repeat;
     background-size: 200px 211px;
     background-position: 446px 81px;
   }
   .programmes__item:last-child {
-    background: #f2f2f2 url('/source/img/cat_back_tablet_2.svg') no-repeat;
+    background: #f2f2f2 url('source/img/cat_back_tablet_2.svg') no-repeat;
     background-size: 268px 200px;
     background-position: 412px 91px;
   }
@@ -650,7 +650,7 @@ h2 {
     margin-left: 20px;
   }
   .programmes__item:first-child {
-    background: #f2f2f2 url('/source/img/programmes_cat_desktop.svg') no-repeat;
+    background: #f2f2f2 url('source/img/programmes_cat_desktop.svg') no-repeat;
     background-position: 52px 41px;
   }
   .programmes li {
@@ -658,7 +658,7 @@ h2 {
     height: 374px;
   }
   .programmes__item:last-child {
-    background: #f2f2f2 url('/source/img/programmes_cat_desktop_2.svg') no-repeat;
+    background: #f2f2f2 url('source/img/programmes_cat_desktop_2.svg') no-repeat;
     background-position: 33px 47px;
   }
   .programmes h3 {
@@ -733,16 +733,16 @@ h2 {
     margin-bottom: 49px;
   }
   .How-it-works li:first-child {
-    background: url(/source/img/How-it-works\ 1.png) no-repeat left center;
+    background: url(source/img/How-it-works\ 1.png) no-repeat left center;
   }
   .How-it-works li:nth-child(2) {
-    background: url(/source/img/How-it-works\ 2.png) no-repeat left center;
+    background: url(source/img/How-it-works\ 2.png) no-repeat left center;
   }
   .How-it-works li:nth-child(3) {
-    background: url(/source/img/How-it-works\ 3.png) no-repeat left center;
+    background: url(source/img/How-it-works\ 3.png) no-repeat left center;
   }
   .How-it-works li:last-child {
-    background: url(/source/img/How-it-works\ 4.png) no-repeat left center;
+    background: url(source/img/How-it-works\ 4.png) no-repeat left center;
   }
 }
 /*экран планшета*/
@@ -782,26 +782,26 @@ h2 {
     margin-bottom: 37px;
   }
   .How-it-works__item:first-child {
-    background: url(/source/img/1.svg), url(/source/img/How-it-works\ 1.png);
+    background: url(source/img/1.svg), url(source/img/How-it-works\ 1.png);
     background-position: 127px 40px, left 40px;
     background-repeat: no-repeat, no-repeat;
     background-size: auto, 80px 80px;
   }
   .How-it-works__item:nth-child(2) {
-    background: url(/source/img/2.svg), url(/source/img/How-it-works\ 2.png);
+    background: url(source/img/2.svg), url(source/img/How-it-works\ 2.png);
     background-position: 126px 38px, left 38px;
     background-repeat: no-repeat, no-repeat;
     background-size: auto, 80px 80px;
   }
   .How-it-works__item:nth-child(3) {
-    background: url(/source/img/3.svg), url(/source/img/How-it-works\ 3.png);
+    background: url(source/img/3.svg), url(source/img/How-it-works\ 3.png);
     background-position: 124px 38px, left 38px;
     background-repeat: no-repeat, no-repeat;
     background-size: auto, 80px 80px;
     margin-bottom: 0;
   }
   .How-it-works__item:last-child {
-    background: url(/source/img/4.svg), url(/source/img/How-it-works\ 4.png);
+    background: url(source/img/4.svg), url(source/img/How-it-works\ 4.png);
     background-position: 124px 38px, left 38px;
     background-repeat: no-repeat, no-repeat;
     background-size: auto, 80px 80px;
@@ -912,7 +912,7 @@ h2 {
     flex-direction: column;
     width: 124px;
     align-items: center;
-    background: url(/source/img/frame.svg) no-repeat;
+    background: url(source/img/frame.svg) no-repeat;
   }
   .item__numberitem {
     font-size: 24px;
@@ -1025,7 +1025,7 @@ h2 {
     width: 768px;
     background-size: 100% 50%;
     position: relative;
-    background: url("/source/img/Gray\ background\ for\ tablet.png") no-repeat;
+    background: url("source/img/Gray\ background\ for\ tablet.png") no-repeat;
     background-position: bottom;
   }
   .example h2 {
@@ -1059,13 +1059,13 @@ h2 {
   .indicators__item:first-child {
     width: 162px;
     height: 77px;
-    background: url(/source/img/frame.svg) no-repeat;
+    background: url(source/img/frame.svg) no-repeat;
     background-size: 162px 77px;
   }
   .indicators__item:last-child {
     width: 162px;
     height: 77px;
-    background: url(/source/img/frame_tablet.svg) no-repeat;
+    background: url(source/img/frame_tablet.svg) no-repeat;
   }
   .item__numberitem {
     font-size: 30px;
@@ -1147,7 +1147,7 @@ h2 {
     /* Ширина ползунка */
     height: 38px;
     /* Высота ползунка */
-    background: url(/source/img/slider_control.svg);
+    background: url(source/img/slider_control.svg);
     /* Фон ползунка */
     cursor: pointer;
     /* Форма курсора */
@@ -1161,7 +1161,7 @@ h2 {
     /* Ширина ползунка */
     height: 34px;
     /* Высота ползунка */
-    background: url(/source/img/slider_control.svg);
+    background: url(source/img/slider_control.svg);
     /* Фон ползунка */
     cursor: pointer;
     /* Форма курсора */
