@@ -175,7 +175,7 @@
   /* Название, которое вы придумали */
   font-style: normal;
   font-weight: 400;
-  src: url(/source/fonts/oswaldregular.woff2);
+  src: url(source/fonts/oswaldregular.woff2);
   /* Путь к файлу шрифта */
   display: swap;
 }
